@@ -9,7 +9,7 @@
 <body>
 	<form action="updateForm.jsp" method="post">
 		<input type="text" name="aid" > <br> <br>
-		<input type="submit" value="Get Details" onclick="window.location.href='updateForm.jsp'">
+		<input type="submit" value="Get Details">
 	</form>
 
 </body>

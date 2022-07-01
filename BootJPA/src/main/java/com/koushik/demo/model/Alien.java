@@ -9,6 +9,7 @@ public class Alien {
 	@Id
 	private int aid;
 	private String aname;
+	
 
 	public int getAid() {
 		return aid;
